@@ -7,3 +7,4 @@ defaults:
       layout: default
 kramdown:
   smart_quotes: ['apos', 'apos', 'quot', 'quot']
+ 
